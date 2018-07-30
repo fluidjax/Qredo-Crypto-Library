@@ -1,10 +1,10 @@
 # Qredo-Crypto-Library
+
+[[https://github.com/qredo/Qredo-Crypto-Library/blob/develop/assets/logo_small.png]]
+
 Qredo Crypto Library is a suite of post-quantum secure algorithms deployed within the Qredo cryptocurrency.
 
 See [Coding Guidelines](https://github.com/qredo/Qredo-Crypto-Library/wiki/Coding-Guidelines) for how to get started.
-
-
-![Qredo](https://drive.google.com/a/qredo.com/file/d/1xgfYBmorbuiU-7F3-jGv4N19SYQACO7Y/view?usp=sharing)
 
 [Website](http://trilinos.org/) |
 [Documentation](http://trilinos.org/about/documentation/) |
