@@ -18,5 +18,4 @@ Qredo Crypto Library is licensed under the MIT License.
 ### Contributing
 
 We appreciate your willingness to contribute to the Qredo project and we are open to like-minded developers and contributors.  Please
-familiarise yourself with our [Contributing
-Guide](https://github.com/qredo/Qredo-Crypto-Library/wiki/Coding-Guidelines) and our [Coding Guide](https://github.com/qredo/Qredo-Crypto-Library/wiki/Coding-Guidelines) to get started.
+familiarise yourself with our project practices on Qredo Crypto Library [project wiki](https://github.com/qredo/Qredo-Crypto-Library/wiki).
