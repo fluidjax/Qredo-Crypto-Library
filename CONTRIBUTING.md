@@ -2,13 +2,15 @@
 
 ## Welcome
 
-Thank you for your interest in working with us. Our project is breaking new ground in technology and business and we're glad that you want to come along for the ride. Our work involves cutting edge cryptography and large amounts of money so you'll probably find that our contribution policies are a little more stringent then some other's that you've worked with in the past. But don't panic it's all sensible and low-overhead... just careful.
+Thank you for your interest in working with us. Our project is breaking new ground in technology and business and we're glad that you want to come along for the ride. Our work involves cutting edge cryptography and large amounts of money so you'll probably find that our contribution policies are a little more stringent then some others that you've worked with in the past. But don't panic it's all sensible and low-overhead... just careful.
 
 Please note that we are a **very** international team so when you are communicating with us please try to be clear and avoid references that we won't understand (like obscure metaphores, references to local sports teams etc.)
 
 ## Contacting Us
 
 If you would like to contribute to this repository we'll need to send you an invitiation. You can let us know you'd like to join by submitting some details via our [our community portal](https://community.qredo.org/)
+
+We will also need you to sign up to these policies
 
 ## Issues, Features and Requests
 
