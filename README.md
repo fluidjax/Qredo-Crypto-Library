@@ -19,3 +19,5 @@ Qredo Crypto Library is licensed under the MIT License.
 
 We appreciate your willingness to contribute to the Qredo project and we are open to like-minded developers and contributors.  Please
 familiarise yourself with our project practices on Qredo Crypto Library [project wiki](https://github.com/qredo/Qredo-Crypto-Library/wiki).
+
+[![Analytics](https://ga-beacon.appspot.com/UA-111409819-2/qredo/Qredo-Crypto-Library?pixel)](https://github.com/igrigorik/ga-beacon)
