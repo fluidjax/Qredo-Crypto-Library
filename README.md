@@ -1,7 +1,7 @@
 # Qredo-Crypto-Library
 
 <p align="center">
-  <img src="https://github.com/qredo/Qredo-Crypto-Library/blob/develop/assets/git_logo.png?raw=true" alt="Qredo"/>
+  <img src="https://raw.githubusercontent.com/GTiP-Alliance/GTiP-Crypto-Library/master/assets/git_logo.jpg" alt="Qredo"/>
 </p>
 
 Qredo Crypto Library is a suite of post-quantum secure algorithms deployed within the Qredo cryptocurrency.
